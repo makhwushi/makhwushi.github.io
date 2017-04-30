@@ -1,0 +1,21 @@
+h1 {
+	font-family: 'Raleway', sans-serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: 'Gentium Basic', serif;
+  margin-bottom: 20px;
+}
+
+a {
+	font-family: 'Gentium Basic', serif;
+}
+
+.container-fluid {
+	background-color: #FFFFFF;
+}
+
+img {
+	margin-bottom: 8vh;
+}
