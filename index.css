@@ -3,19 +3,25 @@ h1 {
 }
 
 p {
-	font-size: 20px;
+	font-size: 18px;
 	font-family: 'Gentium Basic', serif;
   margin-bottom: 20px;
+  line-height: 30px;
 }
 
 a {
 	font-family: 'Gentium Basic', serif;
 }
 
+img {
+  margin-bottom: 8vh;
+}
+
 .container-fluid {
 	background-color: #FFFFFF;
 }
 
-img {
-	margin-bottom: 8vh;
+.vertical-align {
+    display: flex;
+    align-items: center;
 }
